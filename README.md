@@ -219,7 +219,7 @@ plt.show()
 
 ---
 
-## Cross-Validation Scores
+## Cross-Validation
 
 Cross-validation was performed to evaluate the models' performance:
 
@@ -235,8 +235,7 @@ for clf, label in zip([model1, model2, model3, model5, model6, model7, model8, m
 ```
 ![Screenshot 2025-02-15 220638](https://github.com/user-attachments/assets/951c85d4-55ad-4732-ab21-fc764e07e964)
 
-```
-The cross-validation accuracy scores are as follows:
+## Cross-Validation Accuracy Scores
 
 - **GradientBoostingClassifier**: 0.48 (+/- 0.01)
 - **RandomForestClassifier**: 0.44 (+/- 0.01)
@@ -248,19 +247,19 @@ The cross-validation accuracy scores are as follows:
 - **LinearDiscriminantAnalysis**: 0.45 (+/- 0.01)
 - **QuadraticDiscriminantAnalysis**: 0.25 (+/- 0.01)
 
----
-
 ## Getting Started
 
 ### Prerequisites
 
 Before getting started, ensure you have the following:
 
-1. **Python**: Ensure Python is installed on your system.
+1. **Python**: Make sure Python is installed on your system.
 2. **Libraries**: Install the required libraries using pip:
    ```bash
    pip install numpy pandas scikit-learn matplotlib mlxtend
    ```
+
+```
 
 ### Installation
 
