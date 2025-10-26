@@ -1,3 +1,5 @@
+<img width="100" height="70" alt="upwork" align="right" src="https://github.com/user-attachments/assets/bcf8a252-69a7-4a38-bddf-f26797b0983b" />
+
 # Family Members Segmentation Report
 
 This repository contains the code and documentation for a classification project. The project involves preprocessing and analyzing a dataset with categorical features to prepare it for classification tasks. Various classification models are applied to evaluate their performance, and decision boundaries are visualized to understand the models' behavior.
