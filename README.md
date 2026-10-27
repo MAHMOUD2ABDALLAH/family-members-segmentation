@@ -318,5 +318,5 @@ For questions, feedback, or collaboration opportunities, please contact:
 
 Thank you for your interest in the **Family Members Segmentation Report** project. We hope this system can make a meaningful impact in data preprocessing and classification tasks.
 
-<img width="100" height="100" alt="Upwork" src="https://github.com/user-attachments/assets/3bee725e-f9a7-47a5-83c9-321516bb12c9" />
+<img src="https://github.com/user-attachments/assets/43d8da7a-8c02-42f5-a367-eb83b90d078c" alt="Upwork Logo" width="50" />
 
